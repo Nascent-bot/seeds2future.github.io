@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Seed2future</title>
-    <link>https://seeds2future.github.io/tags/</link>
+    <link>https://nascent-bot.github.io/seeds2future.github.io/tags/</link>
     <description>Recent content in Tags on Seed2future</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 18 Dec 2024 14:00:11 +0800</lastBuildDate>
-    <atom:link href="https://seeds2future.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nascent-bot.github.io/seeds2future.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>brain</title>
-      <link>https://seeds2future.github.io/tags/brain/</link>
+      <link>https://nascent-bot.github.io/seeds2future.github.io/tags/brain/</link>
       <pubDate>Wed, 18 Dec 2024 14:00:11 +0800</pubDate>
-      <guid>https://seeds2future.github.io/tags/brain/</guid>
+      <guid>https://nascent-bot.github.io/seeds2future.github.io/tags/brain/</guid>
       <description></description>
     </item>
     <item>
       <title>Gut</title>
-      <link>https://seeds2future.github.io/tags/gut/</link>
+      <link>https://nascent-bot.github.io/seeds2future.github.io/tags/gut/</link>
       <pubDate>Wed, 18 Dec 2024 14:00:11 +0800</pubDate>
-      <guid>https://seeds2future.github.io/tags/gut/</guid>
+      <guid>https://nascent-bot.github.io/seeds2future.github.io/tags/gut/</guid>
       <description></description>
     </item>
     <item>
       <title>Health</title>
-      <link>https://seeds2future.github.io/tags/health/</link>
+      <link>https://nascent-bot.github.io/seeds2future.github.io/tags/health/</link>
       <pubDate>Wed, 18 Dec 2024 14:00:11 +0800</pubDate>
-      <guid>https://seeds2future.github.io/tags/health/</guid>
+      <guid>https://nascent-bot.github.io/seeds2future.github.io/tags/health/</guid>
       <description></description>
     </item>
     <item>
       <title>Microbiome</title>
-      <link>https://seeds2future.github.io/tags/microbiome/</link>
+      <link>https://nascent-bot.github.io/seeds2future.github.io/tags/microbiome/</link>
       <pubDate>Wed, 11 Dec 2024 14:00:11 +0800</pubDate>
-      <guid>https://seeds2future.github.io/tags/microbiome/</guid>
+      <guid>https://nascent-bot.github.io/seeds2future.github.io/tags/microbiome/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Seed2future</title>
-    <link>https://seeds2future.github.io/posts/</link>
+    <link>https://nascent-bot.github.io/seeds2future.github.io/posts/</link>
     <description>Recent content in Posts on Seed2future</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 18 Dec 2024 14:00:11 +0800</lastBuildDate>
-    <atom:link href="https://seeds2future.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nascent-bot.github.io/seeds2future.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Week 02 - Gut Health and the Immune System</title>
-      <link>https://seeds2future.github.io/posts/day4/</link>
+      <link>https://nascent-bot.github.io/seeds2future.github.io/posts/day4/</link>
       <pubDate>Wed, 18 Dec 2024 14:00:11 +0800</pubDate>
-      <guid>https://seeds2future.github.io/posts/day4/</guid>
+      <guid>https://nascent-bot.github.io/seeds2future.github.io/posts/day4/</guid>
       <description></description>
     </item>
     <item>
       <title>Week 02 - Gut Brain Connection</title>
-      <link>https://seeds2future.github.io/posts/day3/</link>
+      <link>https://nascent-bot.github.io/seeds2future.github.io/posts/day3/</link>
       <pubDate>Mon, 16 Dec 2024 14:00:11 +0800</pubDate>
-      <guid>https://seeds2future.github.io/posts/day3/</guid>
+      <guid>https://nascent-bot.github.io/seeds2future.github.io/posts/day3/</guid>
       <description></description>
     </item>
     <item>
       <title>Week 01 - Gut Microbiome</title>
-      <link>https://seeds2future.github.io/posts/day2/</link>
+      <link>https://nascent-bot.github.io/seeds2future.github.io/posts/day2/</link>
       <pubDate>Wed, 11 Dec 2024 14:00:11 +0800</pubDate>
-      <guid>https://seeds2future.github.io/posts/day2/</guid>
+      <guid>https://nascent-bot.github.io/seeds2future.github.io/posts/day2/</guid>
       <description></description>
     </item>
     <item>
       <title>Week 01 - Gut Health Decoded</title>
-      <link>https://seeds2future.github.io/posts/day1/</link>
+      <link>https://nascent-bot.github.io/seeds2future.github.io/posts/day1/</link>
       <pubDate>Mon, 09 Dec 2024 14:00:11 +0800</pubDate>
-      <guid>https://seeds2future.github.io/posts/day1/</guid>
+      <guid>https://nascent-bot.github.io/seeds2future.github.io/posts/day1/</guid>
       <description></description>
     </item>
   </channel>
