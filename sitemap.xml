@@ -2,20 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://nascent-bot.github.io/seeds2future.github.io/tags/brain/</loc>
+    <lastmod>2024-12-24T14:00:11+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/food/</loc>
+    <loc>https://nascent-bot.github.io/seeds2future.github.io/categories/</loc>
+    <lastmod>2024-12-24T14:00:11+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/gut/</loc>
+    <loc>https://nascent-bot.github.io/seeds2future.github.io/posts/day3/</loc>
+    <lastmod>2024-12-24T14:00:11+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/day1/</loc>
+    <loc>https://nascent-bot.github.io/seeds2future.github.io/posts/day4/</loc>
+    <lastmod>2024-12-24T14:00:11+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/health/</loc>
+    <loc>https://nascent-bot.github.io/seeds2future.github.io/categories/food/</loc>
+    <lastmod>2024-12-24T14:00:11+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://nascent-bot.github.io/seeds2future.github.io/tags/gut/</loc>
+    <lastmod>2024-12-24T14:00:11+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://nascent-bot.github.io/seeds2future.github.io/tags/health/</loc>
+    <lastmod>2024-12-24T14:00:11+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://nascent-bot.github.io/seeds2future.github.io/</loc>
+    <lastmod>2024-12-24T14:00:11+08:00</lastmod>
+  </url><url>
+    <loc>https://nascent-bot.github.io/seeds2future.github.io/posts/</loc>
+    <lastmod>2024-12-24T14:00:11+08:00</lastmod>
+  </url><url>
+    <loc>https://nascent-bot.github.io/seeds2future.github.io/tags/</loc>
+    <lastmod>2024-12-24T14:00:11+08:00</lastmod>
+  </url><url>
+    <loc>https://nascent-bot.github.io/seeds2future.github.io/posts/day2/</loc>
+    <lastmod>2024-12-18T14:00:11+08:00</lastmod>
+  </url><url>
+    <loc>https://nascent-bot.github.io/seeds2future.github.io/tags/microbiome/</loc>
+    <lastmod>2024-12-18T14:00:11+08:00</lastmod>
+  </url><url>
+    <loc>https://nascent-bot.github.io/seeds2future.github.io/posts/day1/</loc>
+    <lastmod>2024-12-16T14:00:11+08:00</lastmod>
   </url>
 </urlset>
