@@ -6,27 +6,48 @@
     <description>Recent content in Tags on Seed2future</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Dec 2024 14:00:11 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 25 Dec 2024 14:00:11 +0800</lastBuildDate>
     <atom:link href="https://nascent-bot.github.io/seeds2future.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>brain</title>
-      <link>https://nascent-bot.github.io/seeds2future.github.io/tags/brain/</link>
-      <pubDate>Wed, 18 Dec 2024 14:00:11 +0800</pubDate>
-      <guid>https://nascent-bot.github.io/seeds2future.github.io/tags/brain/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Gut</title>
       <link>https://nascent-bot.github.io/seeds2future.github.io/tags/gut/</link>
-      <pubDate>Wed, 18 Dec 2024 14:00:11 +0800</pubDate>
+      <pubDate>Wed, 25 Dec 2024 14:00:11 +0800</pubDate>
       <guid>https://nascent-bot.github.io/seeds2future.github.io/tags/gut/</guid>
       <description></description>
     </item>
     <item>
-      <title>Health</title>
-      <link>https://nascent-bot.github.io/seeds2future.github.io/tags/health/</link>
+      <title>Healing</title>
+      <link>https://nascent-bot.github.io/seeds2future.github.io/tags/healing/</link>
+      <pubDate>Wed, 25 Dec 2024 14:00:11 +0800</pubDate>
+      <guid>https://nascent-bot.github.io/seeds2future.github.io/tags/healing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Natural</title>
+      <link>https://nascent-bot.github.io/seeds2future.github.io/tags/natural/</link>
+      <pubDate>Wed, 25 Dec 2024 14:00:11 +0800</pubDate>
+      <guid>https://nascent-bot.github.io/seeds2future.github.io/tags/natural/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Diets</title>
+      <link>https://nascent-bot.github.io/seeds2future.github.io/tags/diets/</link>
+      <pubDate>Mon, 23 Dec 2024 14:00:11 +0800</pubDate>
+      <guid>https://nascent-bot.github.io/seeds2future.github.io/tags/diets/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Immune</title>
+      <link>https://nascent-bot.github.io/seeds2future.github.io/tags/immune/</link>
       <pubDate>Wed, 18 Dec 2024 14:00:11 +0800</pubDate>
-      <guid>https://nascent-bot.github.io/seeds2future.github.io/tags/health/</guid>
+      <guid>https://nascent-bot.github.io/seeds2future.github.io/tags/immune/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>brain</title>
+      <link>https://nascent-bot.github.io/seeds2future.github.io/tags/brain/</link>
+      <pubDate>Mon, 16 Dec 2024 14:00:11 +0800</pubDate>
+      <guid>https://nascent-bot.github.io/seeds2future.github.io/tags/brain/</guid>
       <description></description>
     </item>
     <item>
@@ -34,6 +55,13 @@
       <link>https://nascent-bot.github.io/seeds2future.github.io/tags/microbiome/</link>
       <pubDate>Wed, 11 Dec 2024 14:00:11 +0800</pubDate>
       <guid>https://nascent-bot.github.io/seeds2future.github.io/tags/microbiome/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Health</title>
+      <link>https://nascent-bot.github.io/seeds2future.github.io/tags/health/</link>
+      <pubDate>Mon, 09 Dec 2024 14:00:11 +0800</pubDate>
+      <guid>https://nascent-bot.github.io/seeds2future.github.io/tags/health/</guid>
       <description></description>
     </item>
   </channel>
