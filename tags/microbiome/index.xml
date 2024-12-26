@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Microbiome on Seed2future</title>
-    <link>https://nascent-bot.github.io/seeds2future.github.io/tags/microbiome/</link>
+    <link>https://seeds2future.com/tags/microbiome/</link>
     <description>Recent content in Microbiome on Seed2future</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 11 Dec 2024 14:00:11 +0800</lastBuildDate>
-    <atom:link href="https://nascent-bot.github.io/seeds2future.github.io/tags/microbiome/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://seeds2future.com/tags/microbiome/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Week 01 - Gut Microbiome</title>
-      <link>https://nascent-bot.github.io/seeds2future.github.io/posts/day2/</link>
+      <link>https://seeds2future.com/posts/day2/</link>
       <pubDate>Wed, 11 Dec 2024 14:00:11 +0800</pubDate>
-      <guid>https://nascent-bot.github.io/seeds2future.github.io/posts/day2/</guid>
+      <guid>https://seeds2future.com/posts/day2/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Seed2future</title>
-    <link>https://nascent-bot.github.io/seeds2future.github.io/categories/</link>
+    <link>https://seeds2future.com/categories/</link>
     <description>Recent content in Categories on Seed2future</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 25 Dec 2024 14:00:11 +0800</lastBuildDate>
-    <atom:link href="https://nascent-bot.github.io/seeds2future.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://seeds2future.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Food</title>
-      <link>https://nascent-bot.github.io/seeds2future.github.io/categories/food/</link>
+      <link>https://seeds2future.com/categories/food/</link>
       <pubDate>Wed, 25 Dec 2024 14:00:11 +0800</pubDate>
-      <guid>https://nascent-bot.github.io/seeds2future.github.io/categories/food/</guid>
+      <guid>https://seeds2future.com/categories/food/</guid>
       <description></description>
     </item>
   </channel>
