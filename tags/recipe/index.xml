@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recipe on Seed2future</title>
+    <link>https://seeds2future.com/tags/recipe/</link>
+    <description>Recent content in Recipe on Seed2future</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Jan 2025 14:00:11 +0800</lastBuildDate>
+    <atom:link href="https://seeds2future.com/tags/recipe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 08 - Gut-Friendly Recipes</title>
+      <link>https://seeds2future.com/posts/day8/</link>
+      <pubDate>Wed, 01 Jan 2025 14:00:11 +0800</pubDate>
+      <guid>https://seeds2future.com/posts/day8/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
